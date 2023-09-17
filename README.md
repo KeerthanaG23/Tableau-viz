@@ -36,6 +36,18 @@ The player statistics were obtained through web scraping from a reliable cricket
 - **Description**: This visualization compares the performance of two selected players across various metrics. It provides a detailed breakdown of their strengths and weaknesses.
 - **Insights**: Evaluate head-to-head performance and identify areas for improvement for each player.
 
+
+
+### Demo
+Batsman
+https://github.com/KeerthanaG23/Tableau-viz/assets/116378322/ccb033b5-853d-4609-aeae-dd2410ba02ae
+
+Bowler
+https://github.com/KeerthanaG23/Tableau-viz/assets/116378322/75d8211a-9205-4f73-9e58-d1a63da622ff
+
+Comparison
+https://github.com/KeerthanaG23/Tableau-viz/assets/116378322/4e5dea39-2c38-4d1e-affd-42b8f47c8168
+
 ## Usage
 
 1. Clone this repository to your local machine.
