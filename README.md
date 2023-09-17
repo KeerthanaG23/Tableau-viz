@@ -46,6 +46,3 @@ The player statistics were obtained through web scraping from a reliable cricket
 
 - The player statistics were obtained from [https://www.espncricinfo.com].
 - Special thanks to the Tableau community for providing valuable resources and tutorials.
-
-
-Feel free to customize this template according to your specific project details and requirements. Remember to replace placeholders like `[Insert Cricket Statistics Website]` with the actual data source and adapt the code based on your specific data and analysis.
