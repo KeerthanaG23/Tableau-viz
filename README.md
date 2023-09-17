@@ -39,13 +39,13 @@ The player statistics were obtained through web scraping from a reliable cricket
 
 
 ### Demo
-Batsman
+#### Batsman
 https://github.com/KeerthanaG23/Tableau-viz/assets/116378322/ccb033b5-853d-4609-aeae-dd2410ba02ae
 
-Bowler
+##### Bowler
 https://github.com/KeerthanaG23/Tableau-viz/assets/116378322/75d8211a-9205-4f73-9e58-d1a63da622ff
 
-Comparison
+##### Comparison
 https://github.com/KeerthanaG23/Tableau-viz/assets/116378322/4e5dea39-2c38-4d1e-affd-42b8f47c8168
 
 ## Usage
